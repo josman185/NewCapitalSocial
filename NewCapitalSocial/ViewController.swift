@@ -10,7 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
     // creating develop branch
-    // craeting hotm branc
+        // craeting hotm branc
+    // merge hotm into develop
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
