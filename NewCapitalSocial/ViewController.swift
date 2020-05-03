@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         // creating gmai branch
         // craeting hotm branc
     // merge hotm into develop
+    // merge gmai into develop
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
